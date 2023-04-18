@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "www.30300.icu:3000"
+    }
+  ]
+}
